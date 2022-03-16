@@ -1,0 +1,73 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "FAT WATER NIACINAMIDE PORE-REFINING TONER SERUM WITH BARBADOS CHERRY",
+      "img": "https://cdn.shopify.com/s/files/1/0341/3458/9485/products/47151_400x.jpg?v=1619802668",
+      "imgLayout": "https://cdn.shopify.com/s/files/1/0341/3458/9485/products/47151_bg_1000x.jpg?v=1619802668",
+      "price": 875800,
+      "type": "make up"
+    },  
+    {
+      "id": 2,
+      "name": "HYPRATING BODY BUNDLE",
+      "img": "https://cdn.shopify.com/s/files/1/0341/3458/9485/products/FS_SPR_SUM22_T2PRODUCT_ECOMM_BODY_HYDRATION_BUNDLE_1200x1500_320b9024-3bd5-43d7-9fd0-3f6748b83862_400x.jpg?v=1642022573",
+      "imgLayout": "https://cdn.shopify.com/s/files/1/0341/3458/9485/products/FS20001_bg_716ec33f-8ad0-4002-a0d5-4ff183dbaae3.jpg?v=1641503952",
+      "price": 875800,
+      "type": "make up"
+    },
+    {
+      "id": 3,
+      "name": "FOUR OUT FANS BUNDLE",
+      "img": "https://cdn.shopify.com/s/files/1/0341/3458/9485/products/FS_SPR_SUM22_T2PRODUCT_ECOMM_4_PIECE_BUNDLE_1200x1500_7a3b31a3-f503-407f-82f0-e663b9966578_400x.jpg?v=1642029178",
+      "imgLayout": "https://cdn.shopify.com/s/files/1/0341/3458/9485/products/FS_SPR_SUM22_T2PRODUCT_ECOMM_4_PIECE_SMEARS_1200x1500_e6538ed2-c5ec-4bcf-9bfd-af87d789e300_1000x.jpg?v=1642029179",
+      "price": 1060000,
+      "type": "make up"
+    },
+    {
+      "id": 4,
+      "name": "PRE-SHOW GLOW INSTANT RETEXTURIZING 10% AHA TREATMENT + REUSABLE APPLICATOR",
+      "img": "https://cdn.shopify.com/s/files/1/0341/3458/9485/products/FS_POSTHOL2021_T2PRODUCT_ECOMM_PRE-SHOW_GLOW_W_MITT_1200x1500_27748343-bf49-4577-ac54-b995a2ff6848_400x.jpg?v=1636147767",
+      "imgLayout": "https://cdn.shopify.com/s/files/1/0341/3458/9485/products/FS_FALL2021_T2PRODUCT_SMEAR_PRESHOW_GLOW_0843_01_COMP_1200x1500_5496f756-eaa2-4eb3-aee1-464ac00034dd_1000x.jpg?v=1636147776",
+      "price": 875800,
+      "type": "Dưỡng da"
+    },
+    {
+      "id": 5,
+      "name": "FAT WATER NIACINAMIDE PORE-REFINING TONER SERUM WITH BARBADOS CHERRY",
+      "img": "https://cdn.shopify.com/s/files/1/0341/3458/9485/products/47151_400x.jpg?v=1619802668",
+      "imgLayout": "https://cdn.shopify.com/s/files/1/0341/3458/9485/products/47151_bg_1000x.jpg?v=1619802668",
+      "price": 875800,
+      "type": "Dưỡng da"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "fullname": "DuyLam",
+      "gmail": "lam@123",
+      "password": "123"
+    },
+    {
+      "fullname": "Nguyễn Hữu Duy Lâm",
+      "email": "nguyenhuuduylinh23@gmail.com",
+      "password": "Lam12@",
+      "id": 2
+    },
+    {
+      "fullname": "kam",
+      "email": "uyentram7@yahoo.com",
+      "password": "Lam1205@",
+      "password_confirmation": "Lam1205@",
+      "cart": [],
+      "id": 3
+    },
+    {
+      "fullname": "dasa",
+      "email": "1854050040lam@ou.edu.vn",
+      "password": "Lam123@",
+      "cart": [],
+      "id": 4
+    }
+  ]
+}
