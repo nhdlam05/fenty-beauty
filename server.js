@@ -22,7 +22,7 @@ const middlewares = jsonServer.defaults();
 
 // Set default middlewares (logger, static, cors and no-cache)
 server.use(middlewares);
-
+const PORT = process.env.PORT || 3000;
 // Add custom routes before JSON Server router
 server.get("/echo", (req, res) => {
   res.jsonp(req.query);
@@ -41,6 +41,6 @@ server.use((req, res, next) => {
 
 // Use default router
 server.use("/api", router);
-server.listen(3000, () => {
+server.listen(PORT, () => {
   console.log("JSON Server is running");
 });
