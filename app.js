@@ -26,6 +26,7 @@ cartIcon.onclick = function () {
   } else {
     cartDiv.classList.add("show-cart");
   }
+  console.log("click");
 };
 layout.onclick = function () {
   layout.style.display = "none";
